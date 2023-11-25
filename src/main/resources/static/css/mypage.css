@@ -1,0 +1,47 @@
+.mainbox{
+    background: #f1f1f1;
+    width: 640px;
+    padding: 0px 20px 100px;
+    margin: 40px auto 0px;
+    border-radius: 10px;
+}
+.mymodi{
+    height: 80px;
+    padding-top: 20px;
+}
+.mymodi>a{
+    font-size: 18px;
+}
+
+.profileimg{
+    width: 135px;
+    height: 135px;
+    border-radius: 50%;
+    border: 1.4px solid lightgray;
+}
+.myaction{
+    justify-content: space-evenly;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    box-sizing: border-box;
+    height: 60px;
+    padding: 0px 15px;
+    border-top: 1px solid lightgray;
+    flex-wrap: wrap;
+}
+
+/*톱니바퀴*/
+.settings{
+    height: 26px;
+    width: 26px;
+}
+
+.username{
+    font-size:21px;
+    font-weight:bold;
+}
+.useremail{
+    color: rgb(116, 116, 123);
+    font-size: 13px;
+    }
